@@ -13,3 +13,4 @@
 13. Cross-Browser and Cross-Platform Testing
 14. Basic Knowledge of Automation
 15. Soft Skills
+16. 
